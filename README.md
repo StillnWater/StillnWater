@@ -33,7 +33,7 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="linkedin.com/in/manas-bhasker-6a6b28395" target="_blank">
+  <a href="[linkedin.com/in/manas-bhasker-6a6b28395](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B5JPqaoR4QhO9EJ6dNczy1Q%3D%3D)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 </div>
