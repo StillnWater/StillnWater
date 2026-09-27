@@ -109,10 +109,15 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=StillnWater&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=StillnWater&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=StillnWater&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&font_family=Segoe%20UI&card_height=195" width="48%" height="195" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=StillnWater&layout=compact&theme=tokyonight&hide_border=true&font_family=Segoe%20UI&card_width=320&card_height=195" width="48%" height="173" alt="Most Used Languages"/>
+
 </div>
+
 
 
 ## 🔥 GitHub Streak
