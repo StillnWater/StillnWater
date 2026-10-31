@@ -139,7 +139,7 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=StillnWater&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF"
+    src="https://ghchart.rshah.org/00D9FF/StillnWater"
     width="100%"
     alt="GitHub Activity Graph"
   />
@@ -149,7 +149,7 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/StillnWater/StillnWater/output/profile-3d-contrib/profile-green-animate.svg"
+    src="./profile-3d-contrib/profile-green-animate.svg"
     width="100%"
     alt="3D Isometric GitHub Contributions"
   />
