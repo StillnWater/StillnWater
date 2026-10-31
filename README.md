@@ -137,21 +137,25 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 
 ## ✨ Contribution Activity
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/00D9FF/StillnWater"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#0D1117">
+      <img
+        src="https://ghchart.rshah.org/00D9FF/StillnWater"
+        width="100%"
+        alt="GitHub Contribution Activity"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🧊 Isometric Contributions
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="./profile-3d-contrib/profile-night-view.svg"
     width="100%"
-    alt="3D Isometric GitHub Contributions"
+    alt="3D Isometric GitHub Contributions - Night View"
   />
 </p>
 
