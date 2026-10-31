@@ -44,7 +44,7 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 
 
 #### 🎨 Frontend
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
@@ -54,7 +54,7 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 </div>
 
 #### ⚙️ Backend
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
@@ -64,7 +64,7 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 
 
 #### 🤖 AI / Data Science
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
@@ -75,14 +75,14 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 </div>
 
 #### ☁️ Hosting & Cloud
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="netlify" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vercel/white" height="40" alt="vercel" />
 </div>
 
 #### 🛠️ Tools & Platforms
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/white" height="40" alt="github" />
