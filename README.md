@@ -103,7 +103,7 @@ If an idea pops into my head, chances are I'll build it to near perfection.
     <td align="center" width="50%">
       <h3>📊 Stats</h3>
       <img
-        src="https://github-readme-stats-fast.vercel.app/api?username=StillnWater&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=14001F&title_color=E879F9&text_color=E9A8FF&icon_color=D946EF&ring_color=C026D3"
+        src="https://github-stats-extended.vercel.app/api?username=StillnWater&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=14001F&title_color=E879F9&text_color=E9A8FF&icon_color=D946EF&ring_color=C026D3"
         width="100%"
         alt="GitHub Statistics"
       />
