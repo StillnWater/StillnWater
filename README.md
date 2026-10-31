@@ -16,31 +16,6 @@
 
 ---
 
-## ☠️ SYSTEM SIGNATURE
-
-<div align="center">
-
-```text
-             ______
-          .-"      "-.
-         /            \
-        |   .-""""-.   |
-        |  /  _  _  \  |
-        | |  (o)(o)  | |
-        | |     __   | |
-        |  \  .____. /  |
-         \  '-.__.-'  /
-          '.        .'
-            '-.__.-'
-             _|  |_
-          .-' |  | '-.
-         /___/    \___\
-
-          S T I L L W A T E R
-```
-
-</div>
-
 ### ⚡ About Me
 
 Hi, I'm **Manas Bhasker**, a **Full Stack Software Developer** based in **Delhi, India**.
