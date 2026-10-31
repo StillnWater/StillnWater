@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave Animation">
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Manas+Bhasker" alt="Typing SVG" />
-  </a>
-</div>
 
+<p><sub>AN EDITORIAL PROFILE · STILLNWATER</sub></p>
 
-<hr>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=stillnwater&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=stillnwater&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&mode=dark" width="100%" alt="Manas Bhasker cinematic profile scene" />
+</picture>
 
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Python+Programmer;AI+%2F+ML+Enthusiast;" />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=stillnwater&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=stillnwater&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Manas Bhasker animated ASCII name" />
+</picture>
 
 ---
 
