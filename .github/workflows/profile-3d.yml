@@ -14,17 +14,25 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate 3D contribution profile
-        uses: yoshi-k/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Publish generated SVGs
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./profile-3d-contrib
-          force_orphan: true
+      - name: Commit and push generated SVGs
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No contribution image changes."
+          else
+            git commit -m "Update 3D contribution profile"
+            git push
+          fi
