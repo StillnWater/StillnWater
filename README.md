@@ -96,35 +96,28 @@ If an idea pops into my head, chances are I'll build it to near perfection.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
 
-#### 🚀 GitHub Presence
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StillnWater&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StillnWater&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StillnWater&theme=github_dark" />
-</p>
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=StillnWater&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&font_family=Segoe%20UI&card_height=195" width="48%" height="195" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=StillnWater&layout=compact&theme=tokyonight&hide_border=true&font_family=Segoe%20UI&card_width=320&card_height=195" width="48%" height="173" alt="Most Used Languages"/>
-
-</div>
-
-
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=StillnWater&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📊 Stats</h3>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=StillnWater&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=14001F&title_color=E879F9&text_color=E9A8FF&icon_color=D946EF&ring_color=C026D3"
+        width="100%"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td align="center" width="50%">
+      <h3>🔥 Streak</h3>
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=StillnWater&hide_border=true&background=14001F&ring=C026D3&fire=E879F9&currStreakLabel=E879F9&sideLabels=E9A8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A855F7"
+        width="100%"
+        alt="GitHub Contribution Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 
