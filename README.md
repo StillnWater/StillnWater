@@ -3,13 +3,13 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=stillnwater&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=stillnwater&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&mode=dark" width="100%" alt="Manas Bhasker cinematic profile scene" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=stillnwater&theme=sunset&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=stillnwater&theme=sunset&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&mode=dark" width="100%" alt="Manas Bhasker cinematic profile scene" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=stillnwater&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&v=cinematic-hero-wordmark-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=stillnwater&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Manas Bhasker animated ASCII name" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=stillnwater&theme=sunset&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=stillnwater&theme=sunset&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228754825%3Fu%3D01d8712865e344996a2cc5df6f3e9f1abf2a86b8%26v%3D4&label=Manas%20Bhasker&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Manas Bhasker animated ASCII name" />
 </picture>
 
 ---
