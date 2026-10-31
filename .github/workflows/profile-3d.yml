@@ -1,6 +1,9 @@
 name: Generate 3D Contribution Profile
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
