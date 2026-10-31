@@ -134,7 +134,7 @@ If an idea pops into my head, chances are I'll build it to near perfection.
   <tr>
     <td align="center" bgcolor="#0D1117">
       <img
-        src="https://ghchart.rshah.org/00D9FF/StillnWater"
+        src="https://ghchart.rshah.org/C026D3/StillnWater"
         width="100%"
         alt="GitHub Contribution Activity"
       />
