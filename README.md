@@ -135,13 +135,13 @@ If an idea pops into my head, chances are I'll build it to near perfection.
 
 
 
-## ✨ Activity Graph
+## ✨ Contribution Activity
 
 <p align="center">
   <img
     src="https://ghchart.rshah.org/00D9FF/StillnWater"
     width="100%"
-    alt="GitHub Activity Graph"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
