@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">StillnWater terminal wordmark</title>
+  <desc id="desc">A custom terminal-inspired wordmark with a flowing wave motif.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090b14"/>
+      <stop offset="1" stop-color="#10091b"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0abfc"/>
+      <stop offset=".5" stop-color="#c084fc"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+  </defs>
+  <rect x="9" y="9" width="1182" height="322" rx="20" fill="url(#panel)" stroke="#29213b" stroke-width="1.5"/>
+  <path d="M10 58H1190" stroke="#29213b"/>
+  <circle cx="39" cy="34" r="8" fill="#fb7185"/>
+  <circle cx="68" cy="34" r="8" fill="#fbbf24"/>
+  <circle cx="97" cy="34" r="8" fill="#4ade80"/>
+  <text x="600" y="39" fill="#81748f" font-family="Courier New,monospace" font-size="14" text-anchor="middle">stillnwater@github:~$ ./wordmark.sh --name</text>
+
+  <g fill="none" stroke="#8b5cf6" stroke-opacity=".5" stroke-width="2">
+    <path d="M105 122C150 86 195 86 240 122S330 158 375 122 465 86 510 122"/>
+    <path d="M690 122C735 86 780 86 825 122S915 158 960 122 1050 86 1095 122" stroke="#22d3ee" stroke-opacity=".32"/>
+  </g>
+  <g fill="#c084fc" font-family="Courier New,monospace" font-size="15" opacity=".6" text-anchor="middle">
+    <text x="600" y="100">~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~</text>
+    <text x="600" y="278">~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~</text>
+  </g>
+
+  <g transform="translate(600 157)">
+    <path d="M-75 -12C-45 -45 45 -45 75 -12C45 21 -45 21 -75 -12Z" fill="#28133b" stroke="#a855f7" stroke-width="2"/>
+    <path d="M-55 -12C-25 -31 25 -31 55 -12C25 7 -25 7 -55 -12Z" fill="none" stroke="#67e8f9" stroke-width="2" opacity=".9"/>
+    <path d="M-35 -12C-15 -21 15 -21 35 -12C15 -3 -15 -3 -35 -12Z" fill="#c084fc" opacity=".8"/>
+    <circle cx="0" cy="-12" r="5" fill="#f5d0fe"/>
+  </g>
+
+  <text x="600" y="231" fill="url(#name)" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="800" text-anchor="middle" letter-spacing="9">STILLNWATER</text>
+  <text x="600" y="307" fill="#a78bba" font-family="Courier New,monospace" font-size="15" text-anchor="middle" letter-spacing="4">DESIGN  /  BUILD  /  ITERATE</text>
+</svg>
