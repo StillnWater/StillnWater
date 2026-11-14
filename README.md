@@ -5,7 +5,7 @@
 </picture>
 
 <picture>
-  <img src="./assets/profile-wordmark.svg" width="100%" alt="StillnWater custom terminal-style wordmark" />
+  <img src="./assets/profile-wordmark-v2.svg" width="100%" alt="StillnWater custom terminal-style wordmark" />
 </picture>
 
 ---
