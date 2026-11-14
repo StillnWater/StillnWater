@@ -37,6 +37,4 @@
 
   <text x="600" y="231" fill="url(#name)" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="800" text-anchor="middle" letter-spacing="9">STILLNWATER</text>
   <text x="600" y="307" fill="#a78bba" font-family="Courier New,monospace" font-size="15" text-anchor="middle" letter-spacing="4">DESIGN  /  BUILD  /  ITERATE</text>
-  <text x="48" y="309" fill="#6b5c78" font-family="Courier New,monospace" font-size="12">[ STATUS: CURIOUS ]</text>
-  <text x="1152" y="309" fill="#6b5c78" font-family="Courier New,monospace" font-size="12" text-anchor="end">[ MODE: CREATIVE ]</text>
 </svg>
